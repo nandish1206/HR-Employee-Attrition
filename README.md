@@ -1,4 +1,7 @@
 # HR Employee Attrition Analysis
+🛠️ Tech Stack: MySQL | Python | Pandas | Excel | Power BI | Statistics
+
+📊 Dataset: IBM HR Analytics Employee Attrition & Performance
 
 ## 📌 Project Overview
 
